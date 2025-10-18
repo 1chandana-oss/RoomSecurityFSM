@@ -12,3 +12,4 @@ A digital room security system using FSM in CircuitVerse. Tracks wrong password 
 
 ## circuit view
 [circuit diagram](screenshot.png)
+
